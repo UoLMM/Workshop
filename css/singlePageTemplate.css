@@ -84,7 +84,7 @@ ul li:hover a {
 	color: #FFFFFF;
 	text-align: center;
 	margin-top: 0vw;
-	margin-right: 	5%;;
+	margin-right: 	5%;
 	margin-bottom: 0vw;
 	margin-left: 5%;
 	letter-spacing: 0.0267vw;
@@ -112,6 +112,8 @@ ul li:hover a {
 .stats_organizers {
 	font-size:2vw;
 }
+
+
 
 .stats_text {
 	color: #FFFFFF;
@@ -176,6 +178,85 @@ ul li:hover a {
 
 }
 
+.speaker_text {
+	color: #FFFFFF;
+	text-align: justify;
+	margin-top: 0.25vw;
+	font-size:1.05vw;
+   /*text-align: justify;*/
+		margin-left: 0.5%;
+		margin-right: 2%;
+}
+
+.speaker_title {
+   color: #46C5D4;
+	text-align: justify;
+	margin-top: 0.25vw;
+	font-size:1.2vw;
+	font-weight: bold;
+		margin-bottom: 0.15vw;
+
+   /*text-align: justify;*/
+		margin-left: 0.5%;
+		margin-right: 2%;
+}
+
+.speaker_abs {
+   color: #46C5D4;
+	text-align: left;
+	margin-top: 0.25vw;
+	font-size:1.1vw;
+	font-weight: bold;
+   /*text-align: justify;*/
+		margin-left: 0.5%;
+		margin-right: 2%;
+}
+
+.speaker-pic {
+    max-height: 20vw;
+    width: 11vw;
+    object-fit: cover;
+    text-align: center;
+	margin-bottom: -1.2vw;
+
+}
+
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+	margin-left: 5.5%;
+	margin-right: 4%;
+}
+
+td {
+    padding: 2px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: center;
+}
+
+tr {
+	margin-bottom: 0.55vw;
+
+}
+
+table + table {
+    margin-top: 1em;
+}
+
+tr.heading {
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+
+
+table.imgtable, table.imgtable td {
+    border: none;
+    text-align: justify;
+	margin-top: 0%;
+}
+
 .col-xs-3 {
 	  text-align: center;
   position: relative;
@@ -194,6 +275,7 @@ ul li:hover a {
 	float: left;
   width: 16.6666%;
 }
+
 .people-pic {
     max-width: 12vw;
     height: 12vw;
@@ -211,17 +293,26 @@ ul li:hover a {
 }
 
 .people-name-name {
+	    text-align: center;
+	color: #FFFFFF;
+
 	font-size:1.4vw;
 	margin-bottom: -0.7vw;
 }
 
 
 .people-name-inner {
+	    text-align: center;
+	color: #FFFFFF;
+
 	font-size:1vw;
 	margin-bottom: -0.5vw;
 }
 
 .people-name-outer {
+	    text-align: center;
+	color: #FFFFFF;
+
 	font-size:1vw;
 		margin-bottom: 1.8vw;
 }
@@ -444,6 +535,86 @@ ul li:hover a {
 
 }
 
+
+.speaker_text {
+	color: #FFFFFF;
+	text-align: justify;
+	margin-top: 0.2vw;
+	font-size:0.81vw;
+   /*text-align: justify;*/
+		margin-left: 0.5%;
+		margin-right: 2%;
+}
+
+.speaker_title {
+   color: #46C5D4;
+	text-align: justify;
+	margin-top: 0.2vw;
+	font-size:0.9vw;
+	font-weight: bold;
+		margin-bottom: 0.12vw;
+
+   /*text-align: justify;*/
+		margin-left: 0.5%;
+		margin-right: 2%;
+}
+
+.speaker_abs {
+   color: #46C5D4;
+	text-align: left;
+	margin-top: 0.2vw;
+	font-size:1.95vw;
+	font-weight: bold;
+   /*text-align: justify;*/
+		margin-left: 0.5%;
+		margin-right: 2%;
+}
+
+.speaker-pic {
+    max-height: 20vw;
+    width: 11vw;
+    object-fit: cover;
+    text-align: center;
+	margin-bottom: -1.2vw;
+
+}
+
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+	margin-left: 5.5%;
+	margin-right: 4%;
+}
+
+td {
+    padding: 2px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: center;
+}
+
+tr {
+	margin-bottom: 0.55vw;
+
+}
+
+table + table {
+    margin-top: 1em;
+}
+
+tr.heading {
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+
+
+table.imgtable, table.imgtable td {
+    border: none;
+    text-align: justify;
+	margin-top: 0%;
+}	
+	
 .col-xs-3 {
 	  text-align: center;
   position: relative;
@@ -723,6 +894,86 @@ ul li:hover a {
   width: 20%;
 }
 
+
+.speaker_text {
+	color: #FFFFFF;
+	text-align: justify;
+	margin-top: 0.25vw;
+	font-size:1.05vw;
+   /*text-align: justify;*/
+		margin-left: 0.5%;
+		margin-right: 2%;
+}
+
+.speaker_title {
+   color: #46C5D4;
+	text-align: justify;
+	margin-top: 0.25vw;
+	font-size:1.2vw;
+	font-weight: bold;
+		margin-bottom: 0.15vw;
+
+   /*text-align: justify;*/
+		margin-left: 0.5%;
+		margin-right: 2%;
+}
+
+.speaker_abs {
+   color: #46C5D4;
+	text-align: left;
+	margin-top: 0.25vw;
+	font-size:1.1vw;
+	font-weight: bold;
+   /*text-align: justify;*/
+		margin-left: 0.5%;
+		margin-right: 2%;
+}
+
+.speaker-pic {
+    max-height: 20vw;
+    width: 11vw;
+    object-fit: cover;
+    text-align: center;
+	margin-bottom: -1.2vw;
+
+}
+
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+	margin-left: 5.5%;
+	margin-right: 4%;
+}
+
+td {
+    padding: 2px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: center;
+}
+
+tr {
+	margin-bottom: 0.55vw;
+
+}
+
+table + table {
+    margin-top: 1em;
+}
+
+tr.heading {
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+
+
+table.imgtable, table.imgtable td {
+    border: none;
+    text-align: justify;
+	margin-top: 0%;
+}
+	
 .col-xs-2 {
   position: relative;
   min-height: 0.0267vw;
